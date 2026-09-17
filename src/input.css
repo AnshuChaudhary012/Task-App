@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.tasks {
+    scrollbar-width: none;
+}
+
+.tasks::-webkit-scrollbar {
+    display: none;
+}

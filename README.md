@@ -1,21 +1,21 @@
-# Project Name
+# Task App layout
 
 ## links
-1. live link:- 
-2. repo link:-
+1. live link:- https://task-app-umber-six.vercel.app/
+2. repo link:- https://github.com/AnshuChaudhary012/Task-App
 
 ## Description
 
-Write your project description here.
+Site in which we can create task , show which task is done and also delete the task as well.
 
 ## Technologies
 
 - HTML
-- Tailwind CSS
+- Tailwind CLI
 - JavaScript
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Creating Task
+- Mask as done (task)
+- Delete the task
